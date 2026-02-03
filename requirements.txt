@@ -1,0 +1,2 @@
+# Requires: temporal-absence
+# (Not available on PyPI)
